@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "my-scrap-project"
+  },
+  "targets": {
+    "my-scrap-project": {
+      "hosting": {
+        "IceCweamFight": [
+          "./IceCweamFight"
+        ]
+      }
+    }
+  }
+}
